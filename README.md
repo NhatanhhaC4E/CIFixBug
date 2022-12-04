@@ -21,7 +21,7 @@ vite --port 3000
 ```
 
 ## Adding styles
-
+npm install --save styled-components
 You can use CSS files with simple ES2015 `import` statements anywhere in your Javascript:
 
 ```js
